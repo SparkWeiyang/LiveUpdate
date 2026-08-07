@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "channel": "pengpai",
+  "latestVersion": "3.0.0",
+  "describe": "澎湃版 3.0：适配小米澎湃 OS 3 超级岛。",
+  "way": true,
+  "force": false,
+  "downloadUrl": "https://github.com/SparkWeiyang/LiveUpdate/releases/download/v3.0.0-Release/3.0.0-Release.apk"
+}
