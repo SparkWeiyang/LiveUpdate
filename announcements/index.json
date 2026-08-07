@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "2026-08-07-lock-status",
+      "title": "解锁状态功能已恢复",
+      "content": "解锁状态已按旧版行为恢复：锁屏展示「已锁定」、解锁展示「已解锁」并自动撤下。",
+      "target": "all",
+      "type": "dismissible",
+      "date": "2026-08-07"
+    }
+  ]
+}
