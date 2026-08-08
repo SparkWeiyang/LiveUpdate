@@ -8,6 +8,22 @@
       "target": "all",
       "type": "dismissible",
       "date": "2026-08-07"
+    },
+    {
+      "id": "2026-08-08-release-300",
+      "title": "实况通知3.0.0版本已更新",
+      "content": "该版本部分功能可能没有完全测试，会有一些小bug。如有遇到请进群反馈。\n实况通知2.6及以前版本的配置可导入3.0。",
+      "target": "all",
+      "type": "dismissible",
+      "date": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-sidekey-v11",
+      "title": "侧键v1.1已上线",
+      "content": "如果你的手机拥有三段式/两段式/OPPO一加 AI按键，都可使用侧键进行自定义。\n下载地址请见关于页网盘第二条。",
+      "target": "stable",
+      "type": "dismissible",
+      "date": "2026-08-08"
     }
   ]
 }
