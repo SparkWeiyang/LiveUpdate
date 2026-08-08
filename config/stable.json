@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "latestVersion": "3.0.0",
-  "describe": "3.0 重构版：业务分层与界面重做，解锁状态恢复旧版行为。",
-  "way": true,
+  "latestVersion": "3.0.1",
+  "describe": "3.0.1 测试版本",
+  "way": false,
   "force": false,
-  "downloadUrl": "https://github.com/SparkWeiyang/LiveUpdate/releases/download/v3.0.0-Release/3.0.0-Release.apk"
+  "downloadUrl": ""
 }
