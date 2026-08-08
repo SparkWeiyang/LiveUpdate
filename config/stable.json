@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "channel": "stable",
-  "latestVersion": "3.0.1",
-  "describe": "3.0.1 测试版本",
-  "way": false,
-  "force": false,
-  "downloadUrl": ""
-}
